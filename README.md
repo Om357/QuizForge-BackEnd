@@ -1,8 +1,3 @@
-Sure! Below is the **complete `README.md` content** for your `QuizForge-Backend` project, formatted and ready to use as a single Markdown (`.md`) file:
-
----
-
-```markdown
 # 🎯 QuizForge – Backend
 
 **QuizForge** is a scalable and secure backend system for an online quiz platform, built using **Spring Boot**. It handles user authentication, quiz management, and role-based access control using **JWT**, **Spring Security**, and **Bcrypt**. The application integrates **PostgreSQL** as the database and uses **Spring Data JPA** for ORM.
